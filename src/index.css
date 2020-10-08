@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.item {
+  border-bottom: solid 4px #d8d7d7;
+}
+
+.fontYellow {
+  color: #f3a61c;
+}
+
+.callToAction {
+  background-color: #f3a61c;
+  color: white;
+  border-radius: 10px;
+}
+
+.express {
+  background-color: #231f20;
+  color: white;
+  font-family: 'Dancing Script', cursive;
+  border-radius: 10px;
+}
+
+.dotted {
+  border: dotted 2px white;
+}
+
+.bar {
+  background-color: #f3a61c;
+}
