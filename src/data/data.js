@@ -23,7 +23,7 @@ const dataProducts = [
                                     id:4,
                                     name:'Waffle',
                                     description:'(Waffle con frutas)',
-                                    price:'10000'
+                                    price:'10.000'
                                 }
                     ]
                     },
@@ -319,38 +319,167 @@ const dataProducts = [
                                 },
                                 {
                                 id : 2,    
-                                name: '',
-                                description: '',
-                                price: ''
+                                name: 'Copa Sangria Cork',
+                                description: 'Copa',
+                                price: '18.000'
                                 },
                                 {
-                                id : 3,    
-                                name: '',
+                                id : 4,    
+                                name: 'Champaña JP Chenet',
                                 description: '',
-                                price: ''
+                                price: '120.000'
                                 },
-                            ]
-                    },
-                    { title: '',
-                    products:[
                                 {
-                                id : 1,    
-                                name: '',
+                                id : 5,    
+                                name: 'Jugos Naturales',
                                 description: '',
+                                price: '5.500'
+                                },{
+                                id : 6,    
+                                name: 'Limonada',
+                                description: '(Natural $5.000, Cerezada y Hierbabuena $6.000, Coco $8.000)',
                                 price: ''
+                                },{
+                                id : 7,    
+                                name: 'Coca Cola',
+                                description: '',
+                                price: '5.000'
+                                },{
+                                id : 8,    
+                                name: 'Ginger',
+                                description: '',
+                                price: '5.000'
+                                },{
+                                id : 9,    
+                                name: 'Soda',
+                                description: '',
+                                price: '5.000'
+                                },{
+                                id : 10,    
+                                name: 'Tónica',
+                                description: '',
+                                price: '7.000'
+                                },{
+                                id : 11,    
+                                name: 'Red bull',
+                                description: '',
+                                price: '10.000'
+                                },{
+                                id : 12,    
+                                name: 'Agua en botella',
+                                description: '',
+                                price: '5.000'
+                                },{
+                                id : 13,    
+                                name: 'Aromática',
+                                description: 'Opciones: Maracuya, Frutos Rojos',
+                                price: '6.000'
+                                },{
+                                id : 14,    
+                                name: 'Copa de Helado',
+                                description: '',
+                                price: '6.000'
+                                },{
+                                id : 15,    
+                                name: 'Brownie con Helado',
+                                description: '',
+                                price: '8.000'
                                 }
                             ]
                     },
-                    { title: '',
+                    { title: 'MALTEADAS',
                     products:[
                                 {
                                 id : 1,    
-                                name: '',
+                                name: 'Malteada con Licor',
                                 description: '',
-                                price: ''
+                                price: '16.000'
+                                },
+                                {
+                                id : 2,    
+                                name: 'Malteada sin Licor',
+                                description: '',
+                                price: '11.000'
+                                }
+                            ]
+                    },
+                    { title: 'CAFÉ',
+                    products:[
+                                {
+                                id : 1,    
+                                name: 'Café Holandes',
+                                description: 'Ginebra',
+                                price: '10.500'
+                                },
+                                {
+                                id : 2,    
+                                name: 'Café Ruso',
+                                description: 'Vodka',
+                                price: '10.500'
+                                },
+                                {
+                                id : 3,    
+                                name: 'Café Irlandés',
+                                description: 'Whiskey',
+                                price: '10.500'
+                                },
+                                {
+                                id : 4,    
+                                name: 'Café Royal',
+                                description: '',
+                                price: '7.000'
+                                },
+                                {
+                                id : 5,    
+                                name: 'Café Mocca',
+                                description: '',
+                                price: '6.000'
+                                },
+                                {
+                                id : 6,    
+                                name: 'Café Vienes Licor',
+                                description: 'Brandy o Amaretto',
+                                price: '8.500'
+                                },
+                                {
+                                id : 7,    
+                                name: 'Capuccino',
+                                description: '',
+                                price: '5.500'
+                                },
+                                {
+                                id : 8,    
+                                name: 'Capuccino Licor',
+                                description: 'Brandy o Amaretto',
+                                price: '7.500'
+                                },
+                                {
+                                id : 9,    
+                                name: 'Carajillo',
+                                description: '',
+                                price: '6.000'
+                                },
+                                {
+                                id : 10,    
+                                name: 'Espresso',
+                                description: '',
+                                price: '3.500'
+                                },
+                                {
+                                id : 11,    
+                                name: 'Americano',
+                                description: '',
+                                price: '5.000'
+                                },
+                                {
+                                id : 12,    
+                                name: 'Latte',
+                                description: '',
+                                price: '5.000'
                                 }
                             ]
                     }
             ]
+
 
 export default dataProducts
