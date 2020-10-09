@@ -260,6 +260,96 @@ const dataProducts = [
                                 price: '6.000'
                                 }
                     ]
+                    },
+                    { title: 'VINOS',
+                    products:[
+                                {
+                                id : 1,    
+                                name: 'Las Moras',
+                                description: '',
+                                price: '92.000'
+                                },
+                                {
+                                id : 2,    
+                                name: 'Gato Negro',
+                                description: '',
+                                price: '92.000'
+                                },
+                                {
+                                id : 3,    
+                                name: 'Santa Rita',
+                                description: '',
+                                price: '110.000'
+                                },
+                                {
+                                id : 4,    
+                                name: 'Casillero del Diablo',
+                                description: '',
+                                price: '95.000'
+                                }
+                    ]
+                    },
+                    { title: 'VINO CALIENTE',
+                    products:[
+                                {
+                                id : 1,    
+                                name: 'Vino Caliente',
+                                description: ' (Opciones: Frutoso, Brand Wine, Coffe Life)',
+                                price: '10.000'
+                                }
+                            ]
+                    },
+                    { title: 'COCTELES SIN LICOR',
+                    products:[
+                                {
+                                id : 1,    
+                                name: 'Cocteles sin licor',
+                                description: '(Opciones: Frutas, Mojito Free, Daikiri, Piña Colada)',
+                                price: '12.000'
+                                }
+                            ]
+                    },
+                    { title: 'OTROS',
+                    products:[
+                                {
+                                id : 1,    
+                                name: 'Sangria Cork',
+                                description: 'Jarra 1 Litro',
+                                price: '45.000'
+                                },
+                                {
+                                id : 2,    
+                                name: '',
+                                description: '',
+                                price: ''
+                                },
+                                {
+                                id : 3,    
+                                name: '',
+                                description: '',
+                                price: ''
+                                },
+                            ]
+                    },
+                    { title: '',
+                    products:[
+                                {
+                                id : 1,    
+                                name: '',
+                                description: '',
+                                price: ''
+                                }
+                            ]
+                    },
+                    { title: '',
+                    products:[
+                                {
+                                id : 1,    
+                                name: '',
+                                description: '',
+                                price: ''
+                                }
+                            ]
                     }
             ]
 
