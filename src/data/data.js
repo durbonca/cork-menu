@@ -5,25 +5,31 @@ const dataProducts = [
                                     id : 1,    
                                     name: 'Omelette	',
                                     description: '(Maiz, jamón, queso, tostadas, vegetales y bebida caliente)',
-                                    price: '13.000'
+                                    price: '11.000'
                                 },
                                 {
                                     id : 2,    
                                     name: 'Tabliao',
                                     description: '(Carne desmechada, frijol, arepa asada, huevos revueltos, queso rallado y jugo)',
-                                    price: '15.000'
+                                    price: '14.000'
                                 },
                                 {
                                     id:3,
                                     name:'Calentado Cork',
                                     description:'(calentado de frijol, huevo al gusto, patacón, chorizo y bebida caliente)',
-                                    price:'13.900'
+                                    price:'13.000'
                                 },
                                 {
                                     id:4,
                                     name:'Waffle',
                                     description:'(Waffle con frutas)',
                                     price:'10.000'
+                                },
+                                {
+                                    id:5,
+                                    name:'Huevos al gusto',
+                                    description:'',
+                                    price:'8.000'
                                 }
                     ]
                     },
@@ -117,43 +123,43 @@ const dataProducts = [
                                 }
                     ]
                     },
-                    { title: 'HAMBURGUESAS',
+                    { title: 'HAMBURGUESAS: Todas acompañadas con opción de papa a la francesa o papa en casco',
                     products:[
                                 {
                                 id : 1,    
                                 name: 'Hamburguesa Dublin',
-                                description: '(180 GR)',
+                                description: '(tocineta, queso y salsas)',
                                 price: '18.000'
                                 },
                                 {
                                 id : 2,    
                                 name: 'Hamburguesa Doble Carne',
-                                description: '',
+                                description: '(tocineta, queso y salsas)',
                                 price: '23.500'
                                 },
                                 {
                                 id : 3,    
                                 name: 'Hamburguesa Mexicana',
                                 description: '(Frijol, guacamole, tomate y cebolla picado)',
-                                price: '19.000'
+                                price: '17.000'
                                 },
                                 {
                                 id : 4,    
                                 name: 'Hamburguesa Campesina',
                                 description: '(Maiz tierno, huevo duro picado y salsas)',
-                                price: '19.000'
+                                price: '17.000'
                                 },
                                 {
                                 id : 5,    
                                 name: 'Hamburguesa Pollo',
                                 description: '(Pechuga a la plancha, cebolla caramelizada y salsas)',
-                                price: '19.500'
+                                price: '18.000'
                                 },
                                 {
                                 id : 6,    
                                 name: 'Hamburguesa Criolla',
                                 description: '(cebolla grille, huevo frito y salsas)',
-                                price: '19.000'
+                                price: '17.500'
                                 }
                     ]
                     },
