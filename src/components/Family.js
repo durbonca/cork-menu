@@ -5,7 +5,6 @@ import Product from './Product'
 class Family extends React.Component {
     
     render (){
-        
       return  <div className="container-fluid offset-md-3 col-md-6 mt-5 px-4">
                 {dataProducts.map(function (dataProducts){
                     return <div>
