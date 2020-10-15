@@ -8,7 +8,7 @@ import Home from './pages/home'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App mb-5">
         <Switch>
                 <Route path="/Family" render={() => <div><h1 className="mt-5">CARTA DE PLATOS</h1><Family/></div>} />
                 <Route path="/Beer" render={() => <div><h1 className="mt-5">CARTA DE CERVEZAS</h1> <Beer/></div>} />
