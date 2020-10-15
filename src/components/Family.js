@@ -14,6 +14,7 @@ class Family extends React.Component {
                                     <div className="col bar"></div>
                                     <h3 className="col-auto text-center">{dataProducts.title}</h3>
                                     <div className="col bar"></div>
+                                    <p><i>{dataProducts.description}</i></p>
                                 </div>
                                 <Product product={dataProducts.products}/>
                             </div>

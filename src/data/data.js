@@ -123,7 +123,7 @@ const dataProducts = [
                                 }
                     ]
                     },
-                    { title: 'HAMBURGUESAS: Todas acompañadas con opción de papa a la francesa o papa en casco',
+                    { title: 'HAMBURGUESAS', description:'Todas acompañadas con opción de papa a la francesa o papa en casco',
                     products:[
                                 {
                                 id : 1,    
